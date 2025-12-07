@@ -7,6 +7,7 @@ draft: false
 # INTERNSHIP REPORT
 
 ## Student Information
+
 - **Full Name:** Nguyen Van A
 - **Phone Number**: 0989888999
 - **University:** Ho Chi Minh City University of Technology and Education

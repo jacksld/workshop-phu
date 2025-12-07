@@ -1,0 +1,15 @@
+/* Custom styling overrides for Hugo Book theme */
+
+/* Reduce normal text font size by 2px */
+body {
+  font-size: 14px; /* Default is typically 16px, so this reduces by 2px */
+}
+
+/* You can also adjust specific elements if needed */
+.book-page {
+  font-size: 14px;
+}
+
+p, li, td, th {
+  font-size: 14px;
+}
