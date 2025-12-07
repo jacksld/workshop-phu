@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Worklog on Intership Report</title>
+    <link>http://localhost:1313/docs/worklog/</link>
+    <description>Recent content in Worklog on Intership Report</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/worklog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1 Worklog</title>
+      <link>http://localhost:1313/docs/worklog/week-1/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worklog/week-1/</guid>
+      <description>&lt;h1 id=&#34;week-1-worklog&#34;&gt;Week 1 Worklog&lt;a class=&#34;anchor&#34; href=&#34;#week-1-worklog&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

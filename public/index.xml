@@ -9,11 +9,46 @@
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 1 Report</title>
-      <link>http://localhost:1313/docs/week-1/</link>
+      <title>Project Proposal</title>
+      <link>http://localhost:1313/docs/project-proposal/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/docs/project-proposal/</guid>
+      <description>&lt;h1 id=&#34;proposal&#34;&gt;Proposal&lt;a class=&#34;anchor&#34; href=&#34;#proposal&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Events Participated</title>
+      <link>http://localhost:1313/docs/events/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/docs/events/</guid>
+      <description>&lt;h1 id=&#34;events-participated&#34;&gt;Events Participated&lt;a class=&#34;anchor&#34; href=&#34;#events-participated&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/docs/workshop/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/docs/workshop/</guid>
+      <description>&lt;h1 id=&#34;workshop&#34;&gt;Workshop&lt;a class=&#34;anchor&#34; href=&#34;#workshop&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Self-Assessment</title>
+      <link>http://localhost:1313/docs/self-assessment/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/docs/self-assessment/</guid>
+      <description>&lt;h1 id=&#34;self-assessment&#34;&gt;Self-Assessment&lt;a class=&#34;anchor&#34; href=&#34;#self-assessment&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Sharing And Feedback</title>
+      <link>http://localhost:1313/docs/feedback/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/docs/feedback/</guid>
+      <description>&lt;h1 id=&#34;sharing-and-feedback&#34;&gt;Sharing And Feedback&lt;a class=&#34;anchor&#34; href=&#34;#sharing-and-feedback&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Week 1 Worklog</title>
+      <link>http://localhost:1313/docs/worklog/week-1/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/week-1/</guid>
-      <description>&lt;p&gt;My work for week 1&amp;hellip;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/worklog/week-1/</guid>
+      <description>&lt;h1 id=&#34;week-1-worklog&#34;&gt;Week 1 Worklog&lt;a class=&#34;anchor&#34; href=&#34;#week-1-worklog&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
