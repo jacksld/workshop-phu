@@ -21,8 +21,10 @@ defaultContentLanguageInSubdir = false
 
 [params]
     BookToC = false
-    # (Optional) Enable language selector dropdown
+    # Enable language selector dropdown
     BookTranslatedOnly = false
+    # AWS logo in the sidebar header
+    BookLogo = 'images/aws-logo.svg'
 
 [markup.goldmark.renderer]
     unsafe = true

@@ -1,15 +1,34 @@
 /* Custom styling overrides for Hugo Book theme */
+/* Dark theme for navigation menu only */
 
-/* Reduce normal text font size by 2px */
-body {
-  font-size: 14px; /* Default is typically 16px, so this reduces by 2px */
-}
+// Dark theme color for navigation
+$nav-dark-bg: #232f3e;        // Dark background for navigation
+$nav-text-light: #ffffff;     // White text for menu items
 
-/* You can also adjust specific elements if needed */
-.book-page {
-  font-size: 14px;
-}
+/* ========================================
+   BODY - Only font size adjustment
+   ======================================== */
 
 p, li, td, th {
   font-size: 14px;
+}
+
+/* ========================================
+   NAVIGATION MENU - Dark theme styling
+   ======================================== */
+
+/* Navigation menu background */
+.book-menu {
+  background-color: $nav-dark-bg;
+}
+
+/* Menu navigation container */
+.book-menu nav {
+  background-color: $nav-dark-bg;
+}
+
+/* Menu items - white text on dark background */
+.book-menu a,
+.book-menu label {
+  color: $nav-text-light;
 }
