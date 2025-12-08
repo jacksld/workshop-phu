@@ -16,3 +16,5 @@ draft: false
 - **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 - **Internship Position:** FCJ Cloud Intern
 - **Internship Duration:**
+
+![Placeholder image](/images/avatar.png)

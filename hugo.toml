@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Intership Report'
+title = 'Internship Report'
 theme = 'book'
 
 [params]
