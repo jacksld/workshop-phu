@@ -17,4 +17,4 @@ draft: false
 - **Vị Trí Thực Tập:** FCJ Cloud Intern
 - **Thời Gian Thực Tập:**
 
-![Ảnh đại diện](/images/avatar.png)
+![Ảnh đại diện](images/avatar.png)
