@@ -1,18 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Worklog on Internship Report</title>
-    <link>http://localhost:1313/docs/worklog/</link>
-    <description>Recent content in Worklog on Internship Report</description>
+    <title>Giới Thiệu on Báo Cáo Thực Tập</title>
+    <link>http://localhost:1313/vi/</link>
+    <description>Recent content in Giới Thiệu on Báo Cáo Thực Tập</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>vi</language>
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/worklog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Proposal</title>
+      <link>http://localhost:1313/vi/docs/project-proposal/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/vi/docs/project-proposal/</guid>
+      <description>&lt;h1 id=&#34;proposal&#34;&gt;Proposal&lt;a class=&#34;anchor&#34; href=&#34;#proposal&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Events Participated</title>
+      <link>http://localhost:1313/vi/docs/events/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/vi/docs/events/</guid>
+      <description>&lt;h1 id=&#34;events-participated&#34;&gt;Events Participated&lt;a class=&#34;anchor&#34; href=&#34;#events-participated&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/vi/docs/workshop/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/vi/docs/workshop/</guid>
+      <description>&lt;h1 id=&#34;workshop&#34;&gt;Workshop&lt;a class=&#34;anchor&#34; href=&#34;#workshop&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Self-Assessment</title>
+      <link>http://localhost:1313/vi/docs/self-assessment/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/vi/docs/self-assessment/</guid>
+      <description>&lt;h1 id=&#34;self-assessment&#34;&gt;Self-Assessment&lt;a class=&#34;anchor&#34; href=&#34;#self-assessment&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Sharing And Feedback</title>
+      <link>http://localhost:1313/vi/docs/feedback/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/vi/docs/feedback/</guid>
+      <description>&lt;h1 id=&#34;sharing-and-feedback&#34;&gt;Sharing And Feedback&lt;a class=&#34;anchor&#34; href=&#34;#sharing-and-feedback&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Week 1 Worklog</title>
-      <link>http://localhost:1313/docs/worklog/week-1/</link>
+      <link>http://localhost:1313/vi/docs/worklog/week-1/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/worklog/week-1/</guid>
+      <guid>http://localhost:1313/vi/docs/worklog/week-1/</guid>
       <description>&lt;h1 id=&#34;week-1-worklog&#34;&gt;Week 1 Worklog&lt;a class=&#34;anchor&#34; href=&#34;#week-1-worklog&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;a class=&#34;anchor&#34; href=&#34;#objectives&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Connect and get acquainted with members of First Cloud Journey&lt;/li&gt;&#xA;&lt;li&gt;Explore foundation AWS services&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;a class=&#34;anchor&#34; href=&#34;#tasks&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Task&lt;/th&gt;&#xA;          &lt;th&gt;Start date&lt;/th&gt;&#xA;          &lt;th&gt;Completion date&lt;/th&gt;&#xA;          &lt;th&gt;Reference material&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;• Get acquainted with FCJ members&lt;br&gt;• Read and take note of internship unit rules and regulations&lt;/td&gt;&#xA;          &lt;td&gt;29/9/2025&lt;/td&gt;&#xA;          &lt;td&gt;29/9/2025&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Explore AWS services and its type: compute, storage, networking, database, AI/ML, security, monitoring, pricing and support&lt;/td&gt;&#xA;          &lt;td&gt;30/9/2025&lt;/td&gt;&#xA;          &lt;td&gt;7/10/2025&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7&#34;&gt;https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;a class=&#34;anchor&#34; href=&#34;#achievements&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Know and friended with few fellow members of First Cloud Journey&lt;/li&gt;&#xA;&lt;li&gt;Remember internship rules and regulations&lt;/li&gt;&#xA;&lt;li&gt;Explored a variety of AWS services across many domains&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

@@ -3,8 +3,26 @@ languageCode = 'en-us'
 title = 'Internship Report'
 theme = 'book'
 
+# Multi-language configuration
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content'
+  weight = 1
+
+[languages.vi]
+  languageName = 'Tiếng Việt'
+  contentDir = 'content.vi'
+  weight = 2
+  title = 'Báo Cáo Thực Tập'
+
 [params]
     BookToC = false
+    # (Optional) Enable language selector dropdown
+    BookTranslatedOnly = false
 
 [markup.goldmark.renderer]
     unsafe = true
