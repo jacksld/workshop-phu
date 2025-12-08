@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jacksld.github.io/workshop-phu/'
 languageCode = 'en-us'
 title = 'Internship Report'
 theme = 'book'
