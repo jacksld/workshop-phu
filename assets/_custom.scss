@@ -17,13 +17,18 @@ p, li, td, th {
    NAVIGATION MENU - Dark theme styling
    ======================================== */
 
-/* Navigation menu background */
+/* Navigation menu background and fixed positioning */
 .book-menu {
   background-color: $nav-dark-bg;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
 }
 
 /* Menu navigation container */
-.book-menu nav {
+.book-menu nav, .book-menu-content {
   background-color: $nav-dark-bg;
 }
 
@@ -31,4 +36,48 @@ p, li, td, th {
 .book-menu a,
 .book-menu label {
   color: $nav-text-light;
+}
+
+/* Make icons white in the dark navigation menu */
+.book-menu .book-icon {
+  filter: invert(100%) brightness(100%);
+}
+
+/* ========================================
+   BRAND/LOGO - Center alignment and size
+   ======================================== */
+
+/* Center the logo in the sidebar header */
+.book-brand {
+  text-align: center;
+
+  a {
+    justify-content: center;
+  }
+
+  img {
+    width: 60px;  // Adjust this value to change logo width
+    height: auto;  // Maintains aspect ratio
+  }
+}
+
+/* ========================================
+   MAIN CONTENT - Adjust for fixed sidebar
+   ======================================== */
+
+/* Add left margin to prevent content from sliding under fixed sidebar */
+.container {
+  margin-left: $menu-width;
+}
+
+/* Reset margin on mobile when sidebar is hidden */
+@media screen and (max-width: $mobile-breakpoint) {
+  .container {
+    margin-left: 0;
+  }
+
+  /* Override theme's mobile background color for menu-content */
+  .book-menu .book-menu-content {
+    background-color: $nav-dark-bg !important;
+  }
 }
