@@ -8,7 +8,7 @@ type: docs
 
 # Worklog
 
-- **Week 1**: [Week 1 Worklog](week-1)
+- **Week 1**: [Get acquainted with company and AWS services](week-1)
 - **Week 2**:
 - **Week 3**:
 - **Week 4**:
