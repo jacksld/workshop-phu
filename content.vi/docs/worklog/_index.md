@@ -4,9 +4,10 @@ date: 2025-01-07T00:00:00+07:00
 draft: false
 weight: 1
 type: docs
+bookCollapseSection: true
 ---
 
-# Nhật Kí Công Việc"
+# Nhật Kí Công Việc
 
 - **Tuần 1**: [Làm quen với công ty và các dịch vụ AWS](week-1)
 - **Tuần 2**:

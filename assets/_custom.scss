@@ -38,9 +38,59 @@ p, li, td, th {
   color: $nav-text-light;
 }
 
+.book-menu a {
+  padding: 10px;
+}
+
+.book-menu .book-menu-content {
+  padding: 5px;
+}
+
+/* Override padding for large screens too */
+@media screen and (min-width: $container-max-width) {
+  .book-menu .book-menu-content {
+    padding: 5px;
+  }
+}
+
 /* Make icons white in the dark navigation menu */
 .book-menu .book-icon {
   filter: invert(100%) brightness(100%);
+}
+
+/* Active/selected menu heading - white background with black text for readability */
+.book-menu a.active,
+.book-menu li.active > a {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+/* Prevent styling changes during click action (mousedown/mouseup) */
+.book-menu a:active {
+  background-color: transparent !important;
+  color: $nav-text-light !important;
+}
+
+/* Remove focus outline on sidebar links */
+.book-menu a:focus-visible {
+  outline: none !important;
+}
+
+/* Grey hover effect for unselected items only */
+.book-menu li:not(.active) > a:hover {
+  color: #999999 !important;
+  opacity: 1 !important;
+}
+
+/* Keep selected item styling unchanged on hover */
+.book-menu nav ul a.active:hover,
+.book-menu nav ul li.active > a:hover,
+.book-menu nav ul li.active > a[href]:hover {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  opacity: 1 !important;
 }
 
 /* ========================================
@@ -80,4 +130,61 @@ p, li, td, th {
   .book-menu .book-menu-content {
     background-color: $nav-dark-bg !important;
   }
+}
+
+/* ========================================
+   INTERNSHIP REPORT PAGE STYLING
+   ======================================== */
+
+/* Main title - INTERNSHIP REPORT */
+.book-page h1:first-of-type {
+  text-align: center;
+  font-size: 3em;
+  color: #748cab;
+  font-weight: 300;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+/* Section heading - Student Information */
+.book-page h2 {
+  color: #748cab;
+  font-size: 2em;
+  font-weight: 400;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* List styling for student information */
+.book-page ul {
+  list-style: none;
+  padding-left: 3rem;
+  margin-top: 1.5rem;
+}
+
+.book-page ul li {
+  margin-bottom: 1.2rem;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* Bold labels in list items */
+.book-page ul li strong {
+  color: #2d3748;
+  font-weight: 600;
+}
+
+/* Link styling for email */
+.book-page a {
+  color: #5b8ec4;
+  text-decoration: none;
+}
+
+.book-page a:hover {
+  text-decoration: underline;
+}
+
+.markdown.book-article {
+  margin: 40px 90px;
 }
