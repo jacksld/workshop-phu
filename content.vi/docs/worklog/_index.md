@@ -1,5 +1,5 @@
 ---
-title: "Worklog"
+title: "Nhật kí công việc"
 date: 2025-01-07T00:00:00+07:00
 draft: false
 weight: 1
@@ -8,7 +8,7 @@ type: docs
 
 # Worklog
 
-- **Week 1**: [Week 1 Worklog](week-1)
+- **Week 1**: [Làm quen với công ty và các dịch vụ AWS](week-1)
 - **Week 2**:
 - **Week 3**:
 - **Week 4**:
