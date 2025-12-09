@@ -17,4 +17,4 @@ draft: false
 - **Internship Position:** FCJ Cloud Intern
 - **Internship Duration:**
 
-![Placeholder image](images/avatar.png)
+![Placeholder image](/workshop-phu/images/avatar.png)
