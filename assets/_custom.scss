@@ -1,17 +1,8 @@
 /* Custom styling overrides for Hugo Book theme */
-/* Dark theme for navigation menu only */
 
 // Dark theme color for navigation
 $nav-dark-bg: #232f3e;        // Dark background for navigation
 $nav-text-light: #ffffff;     // White text for menu items
-
-/* ========================================
-   BODY - Only font size adjustment
-   ======================================== */
-
-p, li, td, th {
-  font-size: 14px;
-}
 
 /* ========================================
    NAVIGATION MENU - Dark theme styling
@@ -46,7 +37,7 @@ p, li, td, th {
   padding: 5px;
 }
 
-/* Override padding for large screens too */
+/* Override padding for large screens */
 @media screen and (min-width: $container-max-width) {
   .book-menu .book-menu-content {
     padding: 5px;
@@ -97,7 +88,6 @@ p, li, td, th {
    BRAND/LOGO - Center alignment and size
    ======================================== */
 
-/* Center the logo in the sidebar header */
 .book-brand {
   text-align: center;
 
@@ -106,8 +96,8 @@ p, li, td, th {
   }
 
   img {
-    width: 60px;  // Adjust this value to change logo width
-    height: auto;  // Maintains aspect ratio
+    width: 60px;
+    height: auto;
   }
 }
 
@@ -133,10 +123,10 @@ p, li, td, th {
 }
 
 /* ========================================
-   INTERNSHIP REPORT PAGE STYLING
+   PAGE BODY STYLING
    ======================================== */
 
-/* Main title - INTERNSHIP REPORT */
+/* Main title */
 .book-page h1:first-of-type {
   text-align: center;
   font-size: 3em;
@@ -147,7 +137,7 @@ p, li, td, th {
   text-transform: uppercase;
 }
 
-/* Section heading - Student Information */
+/* Section heading */
 .book-page h2 {
   color: #748cab;
   font-size: 2em;
@@ -156,10 +146,10 @@ p, li, td, th {
   margin-bottom: 1.5rem;
 }
 
-/* List styling for student information */
+/* List styling */
 .book-page ul {
   list-style: none;
-  padding-left: 3rem;
+  padding-left: 2rem;
   margin-top: 1.5rem;
 }
 
@@ -169,22 +159,18 @@ p, li, td, th {
   line-height: 1.6;
 }
 
-/* Bold labels in list items */
-.book-page ul li strong {
-  color: #2d3748;
-  font-weight: 600;
+/* Page body font size */
+p, li, td, th {
+  font-size: 14px;
 }
 
-/* Link styling for email */
-.book-page a {
-  color: #5b8ec4;
-  text-decoration: none;
+/* Padding on main body */
+.book-page {
+  padding: 30px 50px;
 }
 
-.book-page a:hover {
-  text-decoration: underline;
-}
-
-.markdown.book-article {
-  margin: 40px 90px;
+/* Center align images in the main body */
+article img {
+  display: block;
+  margin: auto;
 }
