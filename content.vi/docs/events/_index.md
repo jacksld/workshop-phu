@@ -8,3 +8,19 @@ bookCollapseSection: true
 ---
 
 # Sự Kiện Đã Tham Gia
+
+## [Sự Kiện 1](event-1)
+
+- **Tên Sự Kiện:**
+- **Ngày & Giờ:**
+- **Địa Điểm:** 
+- **Vai Trò:** Người tham dự
+
+---
+
+## [Sự Kiện 2 ](event-2)
+
+- **Tên Sự Kiện:**
+- **Ngày & Giờ:**
+- **Địa Điểm:** 
+- **Vai Trò:** Người tham dự

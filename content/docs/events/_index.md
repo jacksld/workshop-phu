@@ -8,3 +8,19 @@ bookCollapseSection: true
 ---
 
 # Events Participated
+
+## [Event 1](event-1)
+
+- **Event Name:**
+- **Date & Time:**
+- **Location:** 
+- **Role:** Attendee
+
+---
+
+## [Event 2](event-2)
+
+- **Event Name:**
+- **Date & Time:**
+- **Location:** 
+- **Role:** Attendee
