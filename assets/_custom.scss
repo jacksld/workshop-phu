@@ -84,6 +84,11 @@ $nav-text-light: #ffffff;     // White text for menu items
   opacity: 1 !important;
 }
 
+/* Hide section name in search result */
+#book-search-results small {
+  display: none;
+}
+
 /* ========================================
    BRAND/LOGO - Center alignment and size
    ======================================== */
